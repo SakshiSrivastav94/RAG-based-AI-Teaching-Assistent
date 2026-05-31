@@ -1,0 +1,11 @@
+ I am teaching web development course. Here are video chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+--------------
+
+[{"title":"Entities, Code tag and more on HTML","number":"13","start":383.12,"end":384.88,"text":" written in the code tag in the pre."},{"title":"Entities, Code tag and more on HTML","number":"13","start":184.96,"end":186.96,"text":" So this happens in pre tag HTML."},{"title":"Entities, Code tag and more on HTML","number":"13","start":151.28,"end":153.04,"text":" There is also a pre tag for this."},{"title":"Entities, Code tag and more on HTML","number":"13","start":347.44,"end":350.64,"text":" Here you are seeing that I have used the code tag here."},{"title":"Entities, Code tag and more on HTML","number":"13","start":153.04,"end":155.04,"text":" If you put anything in the pre tag,"}]
+
+----------------
+
+"where is code and pre tags taught in this course"
+User asked this question related to the video chunks, you have to answer in a human way  (Don't mention the above format, its just for you) where and how much content is taught (in which video and timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer question related to the course.
+

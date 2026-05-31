@@ -1,0 +1,3 @@
+I think I know what's been concluded in this course so far. HTML has been covered, and it seems like we've reached the end of it. The instructor mentions that they'll finish up the HTML lesson.
+
+If you're interested in knowing where exactly HTML is concluded, you can check out video 13 at timestamp around 2:56-5:24 seconds or around 20-22 seconds into the video. That's where we get to see a concise conclusion of the HTML topic.
